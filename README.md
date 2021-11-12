@@ -1,5 +1,5 @@
 # Assigment 1 - Visão por Computador
 
-<p>Trabalho realizado por:<\p>
-<p>Ana Filipa Rodrigues Nogueira<\p>
-<p>Tiago Manuel Massano Tavares<\p>
+Trabalho realizado por: <br>
+Ana Filipa Rodrigues Nogueira <br>
+Tiago Manuel Massano Tavares <br>
